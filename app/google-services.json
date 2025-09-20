@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792604426050",
+    "project_id": "food-go-bbbb2",
+    "storage_bucket": "food-go-bbbb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792604426050:android:e8548c6ae2d805971092db",
+        "android_client_info": {
+          "package_name": "com.example.gofood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62HuZxJNHiFvzZouehtO7ocXVYltBmIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

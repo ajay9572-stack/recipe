@@ -15,6 +15,9 @@
         android:theme="@style/Theme.GOFOOD"
         tools:targetApi="31">
         <activity
+            android:name=".ui.notifications.HomeDetail"
+            android:exported="false" />
+        <activity
             android:name=".ui.notifications.HomeScreen"
             android:exported="false"
             android:theme="@style/Theme.GOFOOD" />
@@ -23,7 +26,7 @@
             android:exported="false"
             android:label="@string/title_activity_home_screen" />
         <activity
-            android:name="HomeScreen"
+            android:name=".HomeScreen"
             android:exported="true"
             tools:ignore="MissingClass">
             <intent-filter>

@@ -57,7 +57,7 @@ class SignUp : AppCompatActivity() {
                 }
             }
             google.setOnClickListener {
-           signwithgoogle()
+                signwithgoogle()
             }
         }
     }

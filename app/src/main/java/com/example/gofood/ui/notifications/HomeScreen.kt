@@ -20,6 +20,7 @@ class HomeScreen : AppCompatActivity() {
         setContentView(binding.root)
 
         // Set up edge-to-edge display
+
         setupEdgeToEdge()
 
         // Set initial fragment
